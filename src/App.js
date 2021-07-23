@@ -9,7 +9,7 @@ function App() {
         <p>
           Hi From Hari
         </p>
-
+        <p>my live site is now auto deploye on change</p>
       </header>
     </div>
   );
